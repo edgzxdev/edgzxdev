@@ -1,16 +1,39 @@
-### Hi there 👋
+<b>Hi there,I'm Zanntech</b>👋<br>
 
-<!--
-**edgzxdev/edgzxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| [![edgzxdev](https://img.shields.io/badge/edgzx-dev-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=edgzxdev&color=blue) | ![Followers](https://img.shields.io/github/followers/zanntech) | ![Stars](https://img.shields.io/github/stars/zanntech?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+--| --| --| --|
 
-Here are some ideas to get you started:
+![_Purple Futuristic Technology Linkedin Banner (1)](https://user-images.githubusercontent.com/122640934/212404305-c058175d-4723-4503-bb0b-8b745a6f6d96.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
+
+I'm a tech enthusiast who loves the mobile and web development!
+
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-zanntech-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zannetsol/)](https://www.linkedin.com/in/zannetsol/)
+[![Instagram Badge](https://img.shields.io/badge/-gonedustx-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gonedustx/)](https://www.instagram.com/gonedustx/)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://jayraj.co.in/)](https://zannet.vercel.app/)
+
+## ⚡ Domains:
+- Node.js
+- PHP (Native, Laravel & CodeIgniter)
+- CSS
+- React
+- App Development (React Native, Java & Kotlin)
+- Api Rest
+- MySQL
+- DevOps
+- Creative Design
+- Python
+- Next.js
+- OpenCV + Python
+
+-------
+## ⚡ Stats:
+<br><br>
+![](https://github-readme-stats.vercel.app/api?username=edgzxdev&theme=light&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=edgzxdev&theme=light&hide_border=false)
+[![trophy](https://github-profile-trophy.vercel.app/?username=edgzxdev&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=edgzxdev&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
