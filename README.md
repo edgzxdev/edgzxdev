@@ -1,4 +1,4 @@
-<b>Hi there,I'm Zanntech</b>👋<br>
+<b>Hi there,I'm Zanntech - edgzxdev</b>👋<br>
 
 | [![edgzxdev](https://img.shields.io/badge/edgzx-dev-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=edgzxdev&color=blue) | ![Followers](https://img.shields.io/github/followers/zanntech) | ![Stars](https://img.shields.io/github/stars/zanntech?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
 --| --| --| --|
