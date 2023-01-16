@@ -34,6 +34,6 @@ I'm a tech enthusiast who loves the mobile and web development!
 ## ⚡ Stats:
 <br><br>
 ![](https://github-readme-stats.vercel.app/api?username=edgzxdev&theme=light&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=edgzxdev&theme=light&hide_border=false)
-[![trophy](https://github-profile-trophy.vercel.app/?username=edgzxdev&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=edgzxdev&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
+![](https://github-readme-streak-stats.herokuapp.com/?user=edgzxdev&theme=light&hide_border=false&include_all_commits=true&count_private=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=edgzxdev&margin-w=8&include_all_commits=true&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=edgzxdev&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&include_all_commits=true&count_private=true)
