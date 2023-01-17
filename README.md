@@ -1,6 +1,6 @@
 <b>Hi there,I'm Zanntech - edgzxdev</b>👋<br>
 
-| [![edgzxdev](https://img.shields.io/badge/edgzx-dev-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=edgzxdev&color=blue) | ![Followers](https://img.shields.io/github/followers/zanntech) | ![Stars](https://img.shields.io/github/stars/zanntech?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+| [![edgzxdev](https://img.shields.io/badge/edgzx-dev-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=edgzxdev&color=blue) | ![Followers](https://img.shields.io/github/followers/edgzxdev) | ![Stars](https://img.shields.io/github/stars/edgzxdev?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
 --| --| --| --|
 
 ![_Purple Futuristic Technology Linkedin Banner (1)](https://user-images.githubusercontent.com/122640934/212404305-c058175d-4723-4503-bb0b-8b745a6f6d96.png)
@@ -33,7 +33,7 @@ I'm a tech enthusiast who loves the mobile and web development!
 -------
 ## ⚡ Stats:
 <br><br>
-![](https://github-readme-stats.vercel.app/api?username=edgzxdev&theme=light&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=edgzxdev&theme=light&hide_border=false&include_all_commits=true&count_private=true)
-[![trophy](https://github-profile-trophy.vercel.app/?username=edgzxdev&margin-w=8&include_all_commits=true&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=edgzxdev&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=edgzxdev&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=edgzxdev&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=edgzxdev&margin-w=8&include_all_commits=true&count_private=true&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=edgzxdev&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&include_all_commits=true&count_private=true)
