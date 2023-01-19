@@ -33,8 +33,8 @@ I'm a tech enthusiast who loves the mobile and web development!
 -------
 ## ⚡ Stats:
 <br><br>
-![](https://github-readme-stats.vercel.app/api?username=edgzxdev&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&locale=es)
-![](https://github-readme-streak-stats.herokuapp.com?user=edgzxdev&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
-![trophy](https://github-profile-trophy.vercel.app?username=edgzxdev&margin-w=8&include_all_commits=true&count_private=true&theme=dracula)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=edgzxdev&theme=dracula&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=edgzxdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&locale=es)
+![](https://github-readme-streak-stats.herokuapp.com?user=edgzxdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![trophy](https://github-profile-trophy.vercel.app?username=edgzxdev&margin-w=8&include_all_commits=true&count_private=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=edgzxdev&layout=compact&theme=dark&include_all_commits=true&count_private=true&locale=es)
 
