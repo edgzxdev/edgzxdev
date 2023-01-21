@@ -36,4 +36,4 @@ I'm a tech enthusiast who loves the mobile and web development!
 ![](https://github-readme-stats.vercel.app/api?username=edgzxdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&locale=es)\
 ![](https://github-readme-streak-stats.herokuapp.com?user=edgzxdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)\
 ![trophy](https://github-profile-trophy.vercel.app?username=edgzxdev&margin-w=8&include_all_commits=true&count_private=true&theme=dark)\
-[![Top Langs](https://github-readme-stats-nine-brown.vercel.app/api/top-langs/?username=edgzxdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats-nine-brown.vercel.app/api/top-langs/?username=edgzxdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
