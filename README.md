@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=1000&color=24F700&vCenter=true&multiline=true&width=520&height=82&lines=Hola!%2C+soy+eduardo+gonzalez+desarrollador+fullstack!;Desarrollo+de+software+a+tu+servicio)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=1000&color=24F700&vCenter=true&multiline=true&width=520&height=82&lines=Hola!%2C+soy+eduardo+gonzález+Desarrollador+Fullstack!;Entusiasta+de+la+Tecnología+😼=^..^=)](https://git.io/typing-svg)
 <img align='right' src='https://thumbs.gfycat.com/JauntyThoroughAsianporcupine-size_restricted.gif' width='200"'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-zanntech-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zannetsol/)](https://www.linkedin.com/in/zannetsol/)
