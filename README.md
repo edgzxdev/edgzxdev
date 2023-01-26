@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-zanntech-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zannetsol/)](https://www.linkedin.com/in/zannetsol/)
 [![Instagram Badge](https://img.shields.io/badge/-gonedustx-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gonedustx/)](https://www.instagram.com/gonedustx/)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-e34f26?style=flat-square&logo=HTML5&logoColor=white&link=https://jayraj.co.in/)](https://zanntech.com/)
-
+ 
 ## ⚡ Domains:
 - Node.js
 - PHP (Native, Laravel & CodeIgniter)
