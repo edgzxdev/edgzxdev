@@ -18,7 +18,7 @@
 - Python
 - Next.js
 - OpenCV + Python
- 
+  
 -------
 ## ⚡ Stats:
  
