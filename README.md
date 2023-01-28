@@ -27,5 +27,5 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=edgzxdev&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" >
 <center><img width="48%" align='center' style="margin-top:100px; margin-bottom:100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgzxdev&langs_count=10&layout=compact&theme=transparent&include_all_commits=true&count_private=true" >
  </center>
-
+ 
 <img align='left' width="100%" src="https://github-profile-trophy.vercel.app?username=edgzxdev&margin-w=8&include_all_commits=true&count_private=true&theme=transparent">
