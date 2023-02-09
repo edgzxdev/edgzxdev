@@ -12,13 +12,28 @@
 - React
 - App Development (React Native, Java & Kotlin)
 - Api Rest
-- MySQL
 - DevOps
 - Creative Design
 - Python
 - Next.js
 - OpenCV + Python
-  
+- MySQL, OracleDB & PostgreSQL
+- Adobe Ilustrator
+## 💻 My Favorite Editor's
+- Visual Studio Code
+- EMAC's
+- NeoVim
+- Visual Studio
+- Sublime Text
+- Notepad C:
+## WorkSpace
+### DESKTOP PC
+- NVIDIA RTX 3060ti
+- Ryzen 5 5600x
+- AsusRogStrix B450
+- 32GB Ram
+### LAPTOP
+- MacBook Air Apple MGN63LA/A M1
 -------
 ## ⚡ Stats:
  
